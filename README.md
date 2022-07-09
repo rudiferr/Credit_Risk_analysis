@@ -1,4 +1,4 @@
-# "Credit_Risk_analysis" Week 16 Challenge
+# "Credit_Risk_analysis" Week 17 Challenge
 ## Overview
 This project used scikit-learn and imbalanced-learn to train and evaluate models to determine credit card risk using a credit card dataset. Six different techniques were used to train and evaluate models with unbalanced classes to determine credit risk. Various libraries and algorithms were used to build and evaluate models using resampling including: 
 1. imbalanced-learn 
